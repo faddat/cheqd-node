@@ -26,15 +26,15 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.8",
+    "@babel/core": "^7.29.7",
     "@babel/node": "^7.13.0",
-    "@vue/cli-plugin-babel": "^4.5.11",
-    "@vue/cli-plugin-vuex": "^4.5.11",
-    "@vue/cli-service": "^4.5.11",
+    "@vue/cli-plugin-babel": "^5.0.9",
+    "@vue/cli-plugin-vuex": "^5.0.9",
+    "@vue/cli-service": "^5.0.9",
     "@vue/compiler-sfc": "^3.0.10",
-    "node-sass": "^5.0.0",
+    "node-sass": "^9.0.0",
     "prettier": "^2.2.1",
-    "protobufjs": "^6.10.2",
-    "sass-loader": "^10.1.1"
+    "protobufjs": "^7.6.5",
+    "sass-loader": "^10.5.2"
   }
 }
